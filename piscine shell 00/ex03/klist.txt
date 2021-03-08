@@ -1,0 +1,5 @@
+Credentials cache: API:066BF64D-1E81-4532-87C5-828A322774E3
+        Principal: kmacquet@42NICE.FR
+
+  Issued                Expires               Principal
+Oct  7 09:49:32 2020  Oct  7 19:49:32 2020  krbtgt/42NICE.FR@42NICE.FR
